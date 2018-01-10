@@ -424,3 +424,34 @@ nav .mbr-section-btn {
 	top: 0;
 	left: -2400px;
 }
+
+.contact-wapp{
+  width: 230px;
+  height: 50px;
+  border: 1px solid #d9d9d9;
+  border-radius: 10px;
+  background-color: white;
+  position:fixed;
+  left:15px;
+  bottom: 100px;
+  opacity: 0.75;
+}
+
+.contact-wapp a{
+  font-weight: 400;
+  color: black;
+  margin-left: 10px;
+  line-height: 30px;
+  font-size: 18px;
+  font-family: 'Rubik', sans-serif;
+  padding-top: 7px;
+  margin: auto;
+  position: absolute;
+}
+
+.contact-wapp img{
+  width: 50px;
+  height: 35px;
+  margin-top:8px;
+  margin-left: 10px;
+}
